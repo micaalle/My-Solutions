@@ -1,0 +1,1 @@
+These LeetCode problems are so easy they barely deserve a category beyond "Easy." Honestly, they’re nothing more then an excuse to keep the GitHub green square streak alive. But hey, a daily commit is a daily commit, and the LeetCode daily challenge isn't going to solve itself.
