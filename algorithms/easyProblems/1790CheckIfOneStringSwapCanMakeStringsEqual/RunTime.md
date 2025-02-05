@@ -17,4 +17,4 @@ O(1)
 
 Time Complexity
 ------------------------------------------------------------------
-O(n + m) Definiety could've been O(n) I jsut really wanted to hash
+O(n + m) Definiety could've been O(n) I just really wanted to hash
