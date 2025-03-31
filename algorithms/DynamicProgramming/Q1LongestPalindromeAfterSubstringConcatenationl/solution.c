@@ -1,4 +1,4 @@
-bool isPalindrome(char *str) {
+ bool isPalindrome(char *str) {
     int len = strlen(str);
     for (int i = 0; i < len / 2; i++) {
         
