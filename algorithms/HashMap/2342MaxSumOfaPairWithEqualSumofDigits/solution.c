@@ -9,7 +9,7 @@ int maximumSum(int* nums, int numsSize) {
 
     int * sumHash = malloc(sizeof(int) * 83);
     memset(sumHash, -1, 83);
-
+ 
     for (int i = 0; i < numsSize; i++) {
         int digitSum = sum(nums[i]);
         
