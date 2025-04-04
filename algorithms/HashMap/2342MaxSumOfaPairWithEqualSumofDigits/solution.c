@@ -5,7 +5,7 @@ int sum(int val) {
 
  
 int maximumSum(int* nums, int numsSize) {
-    int max = -1;
+    int max = -1; 
 
     int * sumHash = malloc(sizeof(int) * 83);
     memset(sumHash, -1, 83);
