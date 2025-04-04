@@ -3,7 +3,7 @@ int sum(int val) {
     return val % 10 + sum(val / 10); 
 }
 
-
+ 
 int maximumSum(int* nums, int numsSize) {
     int max = -1;
 
